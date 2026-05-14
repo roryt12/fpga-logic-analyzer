@@ -15,7 +15,7 @@ I recently needed an analyser for a retro-computer repair project, and I realize
 | Item | Details |
 |------|---------|
 | **FPGA board** | QMTech Wukong (Artix-7 xc7a100tfgg676-1) |
-| **System clock** | 50 MHz oscillator → PLL → 150 MHz |
+| **System clock** | 150 MHz |
 | **Probes** | 32 channels via J12 header (pins 3–34) |
 | **UART** | FTDI USB → 3 Mbps |
 | **Test outputs** | 16 channels via JP2 header (clock dividers) |
