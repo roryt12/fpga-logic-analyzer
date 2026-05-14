@@ -94,14 +94,6 @@ Full pinout for all 32 probe channels is in `notes.md`.
 │   └── uart_tx.vhd              # UART transmitter
 ```
 
-## Build
-
-```bash
-cd vivado
-source build_vhdl.tcl
-```
-
-This runs synthesis and generates the bitstream.
 
 ## SUMP Protocol
 
