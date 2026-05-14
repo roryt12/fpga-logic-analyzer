@@ -1,6 +1,6 @@
 # FPGA Logic Analyzer
 
-## IMPORTANT: Never use folders outside this project for any reason.
+
 
 ## Files
 
