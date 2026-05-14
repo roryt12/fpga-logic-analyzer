@@ -97,7 +97,7 @@ Full pinout for all 32 probe channels is in `notes.md`.
 
 ## SUMP Protocol
 
-The analyzer implements SUMP protocol v2. See `notes.md` for the full command reference, trigger system details, and fixed bugs.
+The analyzer implements SUMP protocol v2. See `notes.md` for the full command reference and trigger system details.
 
 ## In Progress
 
