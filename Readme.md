@@ -4,6 +4,12 @@ A 32-channel logic analyzer built in VHDL for the QMTech Wukong board (Artix-7 x
 
 I recently needed an analyser for a retro-computer repair project, and I realized that I can build a pretty decent one with minimum cost, with one of my spare FPGA development boards.
 
+
+
+![Alt text](Sample.jpg)
+
+
+
 ## Hardware
 
 | Item | Details |
@@ -105,3 +111,7 @@ The analyzer implements SUMP protocol v2. See `notes.md` for the full command re
 
 - [ ] 5V → 3.3V level shifters for probing 5V signals
 - [ ] Input probes with probe clips
+
+![Alt text](wukong.jpg)
+
+
