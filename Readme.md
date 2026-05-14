@@ -2,6 +2,9 @@
 
 A 32-channel logic analyzer built in VHDL for the QMTech Wukong board (Artix-7 xc7a100tfgg676-1).
 
+I recently needed an analyzer for a retro-computer repair project, and I rialized that I can build 
+a pretty decent one with minimum cost, with one of my spare FPGA development boards.
+
 ## Hardware
 
 | Item | Details |
