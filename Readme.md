@@ -3,7 +3,7 @@
 A 32-channel logic analyzer built in VHDL for the QMTech Wukong board (Artix-7 xc7a100tfgg676-1).
 
 I recently needed an analyser for a retro-computer repair project, and I realized that I can build a pretty decent one with minimum cost, with one of my spare FPGA development boards.
-
+The original idea was ispired (and based) from Enxor-Logic-Analyzer By Matthew Crump: https://github.com/lekgolo167/enxor-logic-analyzer
 
 
 ![Alt text](Sample.jpg)
